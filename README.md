@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 iOS Developer
 -------------
 
-I am passionate about developing innovative iOS applications that make a real difference
+I am passionate about developing innovative android applications that make a real difference
 
 * 🌍  I'm based in United States
 * ✉️  You can contact me at [ankitmane11@gmail.com](mailto:ankitmane11@gmail.com)
